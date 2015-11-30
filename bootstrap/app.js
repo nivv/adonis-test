@@ -32,7 +32,7 @@ const providers = [
   'adonis-lucid/providers/CollectionProvider',
   'adonis-lucid/providers/DatabaseProvider',
   'adonis-lucid/providers/LucidProvider',
-  'adonis-validation-provider/providers/ValidatorProvider'
+  //'adonis-validation-provider/providers/ValidatorProvider'
 ]
 
 /*
