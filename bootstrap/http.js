@@ -112,7 +112,8 @@ module.exports = function(){
     */
     const Server = use("Server")
     const Env = use("Env")
-    Server.start(Env.get("APP_PORT"))
+    var port = process.env.PORT || 3331;
+    Server.start(port)
 
   }).catch(function(error){
     console.log(error.stack);
