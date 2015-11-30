@@ -15,6 +15,7 @@
     "adonis-fold": "^1.0.6",
     "adonis-framework": "^1.1.2",
     "adonis-lucid": "^1.0.3",
+    "adonis-validation-provider": "^1.0.1",
     "formidable": "^1.0.17",
     "ouch": "^0.2.0-beta",
     "raw-body": "^2.1.2"
